@@ -17,6 +17,7 @@ A sample pipeline looks like this.
 
 **Download Images -> Crop Images -> Train an OCR model -> Analyse Accuracy -> Submit results here**
 
+Get the images from the IEBC website [here](https://forms.iebc.or.ke/#/downloads?contest=34)
 
 When cropping images, you may have to crop individual numbers as most OCR models using deep learning can only read one line at a time.
 

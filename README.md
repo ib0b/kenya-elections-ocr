@@ -10,6 +10,7 @@ In August 2022, elections were held in Kenya to decide the next leaders, the mai
 The way elections work is, that there are **46,229 polling centers** where elections take place. After the voting period ends (typically around 5pm on election day) the polling station officials commence counting of votes.
 
 They then record the tally manually on a physical form. This form is referred to as Form 34A.
+See blog [post here](https://bob.africa/using-ai-to-verify-kenya-election-results/).
 
 ## Task
 Train an OCR model that correctly identifies the hand written digits. Use the data in this repo ~ ***forms-export.csv***
